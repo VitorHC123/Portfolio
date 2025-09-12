@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Animacao Tech" width="200"/>
-</p>
+<p align="center"> <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Animação de tecnologia" width="200"/> </p>
 
 <h1 align="center">🚀 Vitor Correia Portfolio</h1>
 <p align="center">Meu espaço para mostrar meus projetos, habilidades e paixão por tecnologia.</p>
@@ -8,9 +6,7 @@
 ---
 
 ## ✨ Sobre o Projeto
-<p align="center">
-  <img src="https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif" alt="Preview" width="400"/>
-</p>
+<p align="center"> <img src="https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif" alt="Prévia do projeto" width="400"/> </p>
 
 Este é um **Portfolio moderno e interativo**, feito com **HTML, CSS e JavaScript**, pensado para destacar:
 
